@@ -1,2 +1,2 @@
 # H264Recorder
-recorder video by using VideoToolbox 
+recorde video by using VideoToolbox 
